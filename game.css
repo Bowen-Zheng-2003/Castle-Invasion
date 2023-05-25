@@ -1,0 +1,21 @@
+#myCanvas {
+  border-style: dashed;
+  border-color: grey;
+  background-image: url("game/castleBack1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  transform: translateY(20px);
+}
+
+body {
+  background-image: url(game/background1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#score {
+  font-size: 40px;
+  font-family: monospace;
+  color: white;
+
+}
